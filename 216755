@@ -1,0 +1,20 @@
+<DOCTYPE HTML>
+    <html>
+    <head>
+        <title>
+            osama
+        </title>
+        </head>
+
+        <body>
+            <h1>Hello</h1>
+            <p> fruits </p>
+            <li>oranges</li>
+            <li>Apples</li>
+            <li>grapes</li>
+            < img src = "sm1.png" />
+            < img src = "sm2.png" />
+            < img src = "sm3.png" />
+<a href = "www.google.com">google</a>
+        </body>
+        </html>
